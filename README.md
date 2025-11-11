@@ -39,3 +39,5 @@ Total host : 772 host
 | Sekretariat, Kurikulum, Guru & Tendik, Sarpras |1024	    | 1022	         | /22	 | 255.255.252.0   | 10.83.0.0	 | 10.83.3.191  | 10.83.0.1 - 10.83.3.190   |10.83.0.1    |
 | Kantor cabang, Router                          |64	      | 62             | /26   | 255.255.255.192 | 10.83.3.192 | 10.83.3.255  | 10.83.3.193 - 10.83.3.254 |10.83.3.193  |
 | Server & Admin                                 |16        |	14	           | /28	 | 255.255.255.240 | 10.83.3.224 | 10.83.3. 239 |	10.83.3.225 - 10.83.3.238	|10.83.3.225  |
+
+<img width="858" height="372" alt="image" src="https://github.com/user-attachments/assets/0042c456-7ca2-4194-a987-bf0002fcc726" />
