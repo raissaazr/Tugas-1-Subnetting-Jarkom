@@ -19,7 +19,7 @@
 | Router                          | 2 host     | /30     |
 | Total                           | 772 host   | /22     |
 
-IP Prefix : ``10.83.0.0/22``<\br>
+IP Prefix : ``10.83.0.0/22`` </br>
 Total host : 772 host
 
 # Tabel VLSM 
